@@ -1,0 +1,42 @@
+{
+    "name": "totem",
+    "displayName": "Totem",
+    "description": "🗿 Theme from TheCode.Lat",
+    "icon": "images/thecode-icon.png",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yacafx/vscode-totem.git"
+    },
+    "galleryBanner": {
+        "color": "#193549",
+        "theme": "dark"
+    },
+    "version": "0.0.1",
+    "publisher": "yacafx",
+    "keywords": [
+        "Theme",
+        "Dark Theme"
+    ],
+    "scripts": {
+        "list": "npx vsce ls",
+        "package": "npx vsce package",
+        "package:watch": "npx nodemon --exec npm run package",
+        "publish": "npx vsce publish"
+    },
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "totem",
+                "uiTheme": "vs-dark",
+                "path": "./themes/totem-cobalt-color-theme.json"
+            }
+        ]
+    }
+}
