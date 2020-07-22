@@ -445,7 +445,6 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#e1efff"
       }
     },
