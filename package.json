@@ -1,4 +1,5 @@
 {
+  "version": "1.0.0",
   "name": "totem",
   "displayName": "Totem theme",
   "description": "🗿 Totem theme by @yacaFx",
@@ -12,7 +13,6 @@
     "color": "#193549",
     "theme": "dark"
   },
-  "version": "0.0.2",
   "publisher": "Sergio Brito",
   "keywords": [
     "Theme",
