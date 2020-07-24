@@ -1,7 +1,7 @@
 {
   "name": "totem",
-  "displayName": "Totem",
-  "description": "🗿 Theme from TheCode.Lat",
+  "displayName": "Totem theme",
+  "description": "🗿 Totem theme by @yacaFx",
   "icon": "images/totem-logo.png",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
@@ -13,10 +13,12 @@
     "theme": "dark"
   },
   "version": "0.0.2",
-  "publisher": "yacafx",
+  "publisher": "Sergio Brito",
   "keywords": [
     "Theme",
-    "Dark Theme"
+    "Totem",
+    "Dark Theme",
+    "Totem Theme"
   ],
   "scripts": {
     "list": "npx vsce ls",
