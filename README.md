@@ -1,10 +1,16 @@
-# README
+# TOTEM Theme for Visual Studio Code
 
-![Totem Theme by @yacaFx](./images/totem-github-social-preview.jpg)
+sv
 
-This theme is an italicized version, with fonts that supports cursive italicized fonts.
+![Totem Theme by @yacaFx](images/totem-github-social-preview.jpg)
+
+This theme is an italicized version of Cobalt2, with fonts that supports cursive italicized fonts.
+
+## Credits
 
 This theme is adapted from [Cobalt Official theme by Wes Bos](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) and [Winter is Coming Theme by John Papa](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming). Is a combination of colors and configurations from both themes and some configurations that I use for my daily coding basis.
+
+The Totem logo was made by [Lala Ramirez](https://www.behance.net/lilalaila), go and check her cool and awesome designs on [Behance](https://www.behance.net/lilalaile) or at her [Facebook Fan Page](https://www.facebook.com/lilalailas)
 
 ## How to use the theme
 
