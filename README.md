@@ -247,6 +247,7 @@ code --install-extension Yummygum.city-lights-icon-vsc
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "wallaby.startAutomatically": false,
   "window.nativeTabs": true,
+  "window.titleSeparator": " |      🚥🚥🚥      | ",
   "window.zoomLevel": 0,
   "workbench.colorCustomizations": {
     "activityBar.activeBorder": "#945bc4",
