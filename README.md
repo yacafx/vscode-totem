@@ -1,6 +1,6 @@
 # 🗿 TOTEM Theme for Visual Studio Code
 
-<!-- [![Version](https://vsmarketplacebadge.apphb.com/version/yacafx.theme-totem.svg)](https://marketplace.visualstudio.com/items?itemName=yacafx.theme-totem) -->
+[![Version](https://vsmarketplacebadge.apphb.com/version/yacafx.theme-totem.svg)](https://marketplace.visualstudio.com/items?itemName=yacafx.theme-totem)
 
 ![Totem Theme by @yacaFx](images/totem-github-social-preview.jpg)
 
